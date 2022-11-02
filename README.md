@@ -4,8 +4,9 @@ This is a sample app for the travel reference scenario, built with the [SAP Clou
 
 The purpose of this sample app is to:
 * Demonstrate SAP Fiori annotations
-* Demonstrate and compare SAP Fiori features on various stacks (CAP Node.js, CAP Java SDK, ABAP)
+* Demonstrate and compare SAP Fiori features on various stacks ( CAP Java SDK, ABAP)
 * Run UI test suites on various stacks
+* This App can be deployed to BTP directly
 
 The app still contains some workarounds that are going to be addressed over time.
 In some cases, the model and the handlers can be improved or simplified once further planned CAP features become available.
