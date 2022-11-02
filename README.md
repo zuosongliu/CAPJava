@@ -1,4 +1,4 @@
-# Welcome to the CAP SFLIGHT App
+# Welcome to the CAP JAVA App
 
 This is a sample app for the travel reference scenario, built with the [SAP Cloud Application Programming Model (CAP)](https://cap.cloud.sap) and [SAP Fiori Elements](https://experience.sap.com/fiori-design-web/smart-templates).
 
@@ -14,17 +14,6 @@ currently simply sums up the single prices ignoring the currencies.
 
 ![](https://github.com/SAP-samples/cap-sflight/workflows/CI/badge.svg)
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/cap-sflight)](https://api.reuse.software/info/github.com/SAP-samples/cap-sflight)
-
-
-## SAP Fiori UI with Node.js Backend
-
-### Build and Run
-
-In the root folder of your project run
-```
-npm ci
-cds watch
-```
 
 ### Accessing the SAP Fiori App
 
